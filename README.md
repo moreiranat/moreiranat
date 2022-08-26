@@ -1,6 +1,6 @@
 ### Olá, eu sou a Nataly Lucena! 👋
 
-- 🔭 Atualmente estou estagiando na Invillia e curso o 6° período de Análise e Desenvolvimento de Sistemas no IFPB
+- 🔭 Atualmente estou estagiando na Invillia e cursando Análise e Desenvolvimento de Sistemas no IFPB
 - 🌱 Estudando Spring Boot e React
 
 <div align="center">
