@@ -1,7 +1,7 @@
 ### Olá, eu sou a Nataly Lucena! 👋
 
 - 🔭 Atualmente estou estagiando na Invillia e cursando Análise e Desenvolvimento de Sistemas no IFPB
-- 🌱 Estudando Spring Boot e Kotlin
+- 🌱 Estudando Spring Boot, React e Kotlin
 
 <div align="center">
   <a href="https://github.com/moreiranat">
