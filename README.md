@@ -1,7 +1,7 @@
 ### Olá, eu sou a Nataly Lucena! 👋
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPB
-- 🌱 Estudando Java, Spring Boot, React e Kotlin
+- 🌱 Estudando Java e Spring Boot
 
 <div align="center">
   <a href="https://github.com/moreiranat">
